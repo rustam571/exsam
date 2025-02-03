@@ -1,0 +1,130 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing:border-box;
+}
+.container{
+    max-width: 1800px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #272C3D;
+    height: 70px
+    ;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+ 
+
+
+}
+input{
+    width: 241.87px;
+height: 30px;
+top: 20px;
+left: 790.53px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+background: #404864;
+
+}
+select{
+    width: 165.49px;
+height: 30px;
+top: 20px;
+left: 1070.59px;
+gap: 0px;
+opacity: 0px;
+
+background: #00000080;
+color: white;
+}
+a:hover{
+    color: orange;
+}
+.q{
+    background-image: url(./CSGO.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.ss{
+    margin-bottom: 100px;
+}
+.ww{
+    display: flex;
+justify-content: center;
+background-color: black;
+}
+h1{
+text-align: center;
+font-family: Quantico;
+font-size: 32px;
+font-weight: 400;
+line-height: 45.76px;
+
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background-color: black;
+color: white;
+}
+.sss{
+   
+    display: flex;
+
+}
+.java{
+    background: #1B1E27;
+color: gray
+;
+padding-left: 280px;
+padding-right: 400px;
+padding-top: 100px;
+margin-left: 50px;
+margin-right: 50px;
+}
+h2{
+    margin-left: 50px;
+    margin-bottom: 30px    ;
+}
+.m{
+  display: flex;
+   
+    margin-top: 200px;
+}
+h2{
+    padding-top: 100px;
+}
+.k{
+    margin-top: 200px;
+}
+footer{
+    background: #272C3D;
+display: flex;
+align-items: center;
+justify-content: space-between;
+height: 72px;
+padding-left: 50px;
+padding-right: 50px;
+}
+body{
+    background-color: black;
+   
+}
+
+ 
+
+
